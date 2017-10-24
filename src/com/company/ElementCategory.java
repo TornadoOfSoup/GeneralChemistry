@@ -1,0 +1,16 @@
+package com.company;
+
+public enum ElementCategory {
+    DEFAULT,
+    ALKALI_METALS,
+    ALKALINE_EARTH_METALS,
+    HALOGENS,
+    NOBLE_GASES,
+    LANTHANOIDS,
+    ACTINOIDS,
+    RARE_EARTH_METALS,
+    TRANSITION_METALS,
+    METALLOIDS,
+    NONMETAL,
+
+}

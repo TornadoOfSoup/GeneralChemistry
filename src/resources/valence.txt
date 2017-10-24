@@ -1,0 +1,40 @@
+Hydrogen 1 Niobium 5 Thallium 3
+Helium 0 Molybdenum 6 Lead 4
+Lithium 1 Technetium 7 Bismuth 5
+Beryllium 2 Ruthenium 6 Polonium 6
+Boron 3 Rhodium 6 Astatine 7
+Carbon 4 Palladium 4 Radon 6
+Nitrogen 3 Silver 2 Francium 3
+Oxygen 2 Cadmium 2 Radium 2
+Fluorine 1 Indium 3 Actinium 3
+Neon 0 Tin 4 Thorium 4
+Sodium 1 Antimony 5 Protactinium 5
+Magnesium 2 Tellurium 6 Uranium 6
+Aluminum 3 Iodine 7 Neptunium 6
+Silicon 4 Xenon 6 Plutonium 6
+Phosphorus 5 Cesium 1 Americium 4
+Sulfur 6 Barium 2 Curium 4
+Chlorine 5 Lanthanum 3 Berkelium 4
+Argon 0 Cerium 4 Californium 4
+Potassium 1 Praseodymium 4 Einsteinium 4
+Calcium 2 Neodymium 3 Fermium 3
+Scandium 3 Promethium 3 Mendelevium 3
+Titanium 4 Samarium 3 Nobelium 3
+Vanadium 5 Europium 3 Lawrencium 3
+Chromium 6 Gadolinium 3 Rutherfordium 4
+Manganese 4 Terbium 3 Dubnium 5
+Iron 3 Dysprosium 3 Seaborgium 6
+Cobalt 4 Holmium 3 Bohrium 7
+Nickel 2 Erbium 3
+Copper 2 Thulium 3
+Zinc 2 Ytterbium 3
+Gallium 3 Lutetium 3
+Germanium 4 Hafnium 4
+Arsenic 5 Tantalum 5
+Selenium 6 Tungsten 6
+Bromine 7 Rhenium 7
+Krypton 2 Osmium 6
+Rubidium 1 Iridium 6
+Strontium 2 Platinum 6
+Yttrium 3 Gold 5
+Zirconium 4 Mercury 2
